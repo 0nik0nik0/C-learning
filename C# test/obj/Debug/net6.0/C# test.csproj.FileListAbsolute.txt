@@ -1,0 +1,5 @@
+C:\Users\marin\Desktop\МНВ\GB\C#learning\C# test\obj\Debug\net6.0\C# test.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#learning\C# test\obj\Debug\net6.0\C# test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#learning\C# test\obj\Debug\net6.0\C# test.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#learning\C# test\obj\Debug\net6.0\C# test.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#learning\C# test\obj\Debug\net6.0\C# test.csproj.CoreCompileInputs.cache

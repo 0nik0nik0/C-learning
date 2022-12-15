@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#learning\\C# test\\C# test.csproj",
+      "projectUniqueName": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\C# test\\C# test.csproj",
       "projectName": "C# test",
-      "projectPath": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#learning\\C# test\\C# test.csproj",
+      "projectPath": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\C# test\\C# test.csproj",
       "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#learning\\C# test\\obj\\",
+      "outputPath": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\C# test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config"

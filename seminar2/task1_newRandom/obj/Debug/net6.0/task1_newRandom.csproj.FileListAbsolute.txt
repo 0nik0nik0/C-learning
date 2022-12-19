@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\task1_newRandom.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\task1_newRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\task1_newRandom.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\task1_newRandom.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\task1_newRandom.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\bin\Debug\net6.0\task1_newRandom.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\bin\Debug\net6.0\task1_newRandom.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\bin\Debug\net6.0\task1_newRandom.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\bin\Debug\net6.0\task1_newRandom.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\bin\Debug\net6.0\task1_newRandom.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\task1_newRandom.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\refint\task1_newRandom.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\task1_newRandom.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\task1_newRandom.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task1_newRandom\obj\Debug\net6.0\ref\task1_newRandom.dll

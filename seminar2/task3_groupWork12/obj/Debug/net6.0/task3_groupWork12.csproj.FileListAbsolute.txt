@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\bin\Debug\net6.0\task3_groupWork12.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\bin\Debug\net6.0\task3_groupWork12.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\bin\Debug\net6.0\task3_groupWork12.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\bin\Debug\net6.0\task3_groupWork12.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\bin\Debug\net6.0\task3_groupWork12.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\task3_groupWork12.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\task3_groupWork12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\task3_groupWork12.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\task3_groupWork12.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\task3_groupWork12.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\task3_groupWork12.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\refint\task3_groupWork12.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\task3_groupWork12.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\task3_groupWork12.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task3_groupWork12\obj\Debug\net6.0\ref\task3_groupWork12.dll

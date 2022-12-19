@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\bin\Debug\net6.0\task2_groupWork.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\bin\Debug\net6.0\task2_groupWork.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\bin\Debug\net6.0\task2_groupWork.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\bin\Debug\net6.0\task2_groupWork.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\bin\Debug\net6.0\task2_groupWork.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\task2_groupWork.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\task2_groupWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\task2_groupWork.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\task2_groupWork.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\task2_groupWork.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\task2_groupWork.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\refint\task2_groupWork.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\task2_groupWork.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\task2_groupWork.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar2\task2_groupWork\obj\Debug\net6.0\ref\task2_groupWork.dll

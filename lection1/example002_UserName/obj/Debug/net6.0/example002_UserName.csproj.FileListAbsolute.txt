@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\example002_UserName.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\example002_UserName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\example002_UserName.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\example002_UserName.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\example002_UserName.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\bin\Debug\net6.0\example002_UserName.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\bin\Debug\net6.0\example002_UserName.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\bin\Debug\net6.0\example002_UserName.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\bin\Debug\net6.0\example002_UserName.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\bin\Debug\net6.0\example002_UserName.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\example002_UserName.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\refint\example002_UserName.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\example002_UserName.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\example002_UserName.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example002_UserName\obj\Debug\net6.0\ref\example002_UserName.dll

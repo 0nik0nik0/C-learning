@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\bin\Debug\net6.0\example7_TriangleMagic.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\bin\Debug\net6.0\example7_TriangleMagic.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\bin\Debug\net6.0\example7_TriangleMagic.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\bin\Debug\net6.0\example7_TriangleMagic.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\bin\Debug\net6.0\example7_TriangleMagic.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\example7_TriangleMagic.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\example7_TriangleMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\example7_TriangleMagic.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\example7_TriangleMagic.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\example7_TriangleMagic.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\example7_TriangleMagic.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\refint\example7_TriangleMagic.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\example7_TriangleMagic.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\example7_TriangleMagic.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example7_TriangleMagic\obj\Debug\net6.0\ref\example7_TriangleMagic.dll

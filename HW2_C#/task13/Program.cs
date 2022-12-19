@@ -16,17 +16,10 @@ if (num < 100)
     }
 else
 {
-   
-    
      while (num > 1000)
     {
         num = num/10;
     }
-    if (num > 99 && num < 1000)
-    {
-        int number = (num % 10);
-        Console.WriteLine($"{number} Good job!");
-    }
-    
-    
+    int number = (num % 10);
+    Console.WriteLine($"{number} Good job!");  
 }

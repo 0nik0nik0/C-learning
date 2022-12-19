@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\example6_Base.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\example6_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\example6_Base.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\example6_Base.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\example6_Base.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\bin\Debug\net6.0\example6_Base.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\bin\Debug\net6.0\example6_Base.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\bin\Debug\net6.0\example6_Base.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\bin\Debug\net6.0\example6_Base.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\bin\Debug\net6.0\example6_Base.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\example6_Base.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\refint\example6_Base.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\example6_Base.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\example6_Base.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example6_Base\obj\Debug\net6.0\ref\example6_Base.dll

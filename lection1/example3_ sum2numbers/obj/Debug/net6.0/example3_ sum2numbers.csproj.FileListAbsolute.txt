@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\bin\Debug\net6.0\example3_ sum2numbers.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\bin\Debug\net6.0\example3_ sum2numbers.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\bin\Debug\net6.0\example3_ sum2numbers.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\bin\Debug\net6.0\example3_ sum2numbers.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\bin\Debug\net6.0\example3_ sum2numbers.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\example3_ sum2numbers.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\example3_ sum2numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\example3_ sum2numbers.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\example3_ sum2numbers.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\example3_ sum2numbers.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\example3_ sum2numbers.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\refint\example3_ sum2numbers.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\example3_ sum2numbers.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\example3_ sum2numbers.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example3_ sum2numbers\obj\Debug\net6.0\ref\example3_ sum2numbers.dll

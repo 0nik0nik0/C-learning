@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\task4_ArrayFilling.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\task4_ArrayFilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\task4_ArrayFilling.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\task4_ArrayFilling.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\task4_ArrayFilling.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\bin\Debug\net6.0\task4_ArrayFilling.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\bin\Debug\net6.0\task4_ArrayFilling.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\bin\Debug\net6.0\task4_ArrayFilling.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\bin\Debug\net6.0\task4_ArrayFilling.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\bin\Debug\net6.0\task4_ArrayFilling.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\task4_ArrayFilling.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\refint\task4_ArrayFilling.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\task4_ArrayFilling.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\task4_ArrayFilling.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection2\task4_ArrayFilling\obj\Debug\net6.0\ref\task4_ArrayFilling.dll

@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\example5_HiUser.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\example5_HiUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\example5_HiUser.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\example5_HiUser.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\example5_HiUser.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\bin\Debug\net6.0\example5_HiUser.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\bin\Debug\net6.0\example5_HiUser.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\bin\Debug\net6.0\example5_HiUser.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\bin\Debug\net6.0\example5_HiUser.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\bin\Debug\net6.0\example5_HiUser.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\example5_HiUser.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\refint\example5_HiUser.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\example5_HiUser.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\example5_HiUser.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example5_HiUser\obj\Debug\net6.0\ref\example5_HiUser.dll

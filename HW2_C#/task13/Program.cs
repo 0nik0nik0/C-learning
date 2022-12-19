@@ -20,6 +20,5 @@ else
     {
         num = num/10;
     }
-    int number = (num % 10);
-    Console.WriteLine($"{number} Good job!");  
+    Console.WriteLine($"{num % 10} Good job!");  
 }

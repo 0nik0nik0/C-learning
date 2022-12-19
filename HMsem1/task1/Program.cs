@@ -16,12 +16,12 @@ int b = int.Parse(Console.ReadLine());
 
 if(a>b)
 {
-    Console.WriteLine($"Max number = {a} , Max number = {b} ");
+    Console.WriteLine($"Max number = {a} , Min number = {b} ");
 
 }
 else
 {
-    Console.WriteLine($"Max number = {b} , Max number = {a} ");
+    Console.WriteLine($"Max number = {b} , Min number = {a} ");
 
 }
 

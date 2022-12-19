@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\bin\Debug\net6.0\example4_Dif.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\bin\Debug\net6.0\example4_Dif.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\bin\Debug\net6.0\example4_Dif.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\bin\Debug\net6.0\example4_Dif.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\bin\Debug\net6.0\example4_Dif.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\example4_Dif.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\example4_Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\example4_Dif.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\example4_Dif.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\example4_Dif.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\example4_Dif.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\refint\example4_Dif.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\example4_Dif.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\example4_Dif.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection1\example4_Dif\obj\Debug\net6.0\ref\example4_Dif.dll

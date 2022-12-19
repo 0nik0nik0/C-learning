@@ -7,7 +7,26 @@
 32679 -> 6
 */
 
-
-
-
-
+Console.Clear();
+Console.WriteLine("Insert number A");
+int num = int.Parse(Console.ReadLine());
+if (num < 100)
+    {
+    Console.WriteLine("no 3rd sign, try again!");
+    }
+else
+{
+   
+    
+     while (num > 1000)
+    {
+        num = num/10;
+    }
+    if (num > 99 && num < 1000)
+    {
+        int number = (num % 10);
+        Console.WriteLine($"{number} Good job!");
+    }
+    
+    
+}

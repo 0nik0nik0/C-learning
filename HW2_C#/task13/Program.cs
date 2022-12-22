@@ -8,9 +8,13 @@
 */
 
 Console.Clear();
-Console.WriteLine("Insert number A");
+Console.WriteLine("Insert positive number");
 int num = int.Parse(Console.ReadLine());
-if (num < 100)
+if (num < 0)
+    {
+    Console.WriteLine("Number should be positive(+), please try again!");
+    }
+else if (num < 100)
     {
     Console.WriteLine("no 3rd sign, try again!");
     }

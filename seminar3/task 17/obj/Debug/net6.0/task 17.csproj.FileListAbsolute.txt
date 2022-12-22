@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\task 17.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\task 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\task 17.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\task 17.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\task 17.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\bin\Debug\net6.0\task 17.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\bin\Debug\net6.0\task 17.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\bin\Debug\net6.0\task 17.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\bin\Debug\net6.0\task 17.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\bin\Debug\net6.0\task 17.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\task 17.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\refint\task 17.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\task 17.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\task 17.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\seminar3\task 17\obj\Debug\net6.0\ref\task 17.dll

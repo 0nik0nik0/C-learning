@@ -7,7 +7,7 @@
 32679 -> 6
 */
 
-Console.Clear();
+/* Console.Clear();
 Console.WriteLine("Insert positive number");
 int num = int.Parse(Console.ReadLine());
 if (num < 0)
@@ -25,4 +25,4 @@ else
         num = num/10;
     }
     Console.WriteLine($"{num % 10} Good job!");  
-}
+} */

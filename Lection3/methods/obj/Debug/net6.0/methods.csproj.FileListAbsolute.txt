@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\bin\Debug\net6.0\methods.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\bin\Debug\net6.0\methods.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\bin\Debug\net6.0\methods.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\bin\Debug\net6.0\methods.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\methods.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\refint\methods.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\methods.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\methods\obj\Debug\net6.0\ref\methods.dll

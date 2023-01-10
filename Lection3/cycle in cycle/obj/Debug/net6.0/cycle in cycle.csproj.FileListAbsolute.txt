@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\refint\cycle in cycle.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\Lection3\cycle in cycle\obj\Debug\net6.0\ref\cycle in cycle.dll

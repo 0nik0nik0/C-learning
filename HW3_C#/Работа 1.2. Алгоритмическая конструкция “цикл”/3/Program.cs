@@ -7,12 +7,13 @@ c - цена бензина за 1л литр. (цикл for)
 
 
 Console.Write("Введите ваш расход бензина на 100км (b) ");
-int b = int.Parse(Console.ReadLine());
+double b = double.Parse(Console.ReadLine());
 Console.Write("Введите цену бензина за 1л литр (с) ");
-int c = int.Parse(Console.ReadLine());
+double c = double.Parse(Console.ReadLine());
 
 double price = 0;
-for (int s= 10; s <= 90; s+=10)
+for (double s= 10; s <= 90; s+=10)
 {
-    Console.WriteLine($"Стоимость поездки на {s} км  {price = b / 100 * s * c} руб.");
+    price = b / 100 * s * c;
+    Console.WriteLine($"Стоимость поездки на {s} км  {Math.Round(price, 2)} руб.");
 }

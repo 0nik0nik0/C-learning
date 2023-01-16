@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\seminar4\\2\\2.csproj",
-      "projectName": "2",
-      "projectPath": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\seminar4\\2\\2.csproj",
+      "projectUniqueName": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\HW5_C#\\task38\\task38.csproj",
+      "projectName": "task38",
+      "projectPath": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\HW5_C#\\task38\\task38.csproj",
       "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\seminar4\\2\\obj\\",
+      "outputPath": "C:\\Users\\marin\\Desktop\\МНВ\\GB\\C#\\C#learning\\HW5_C#\\task38\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config"

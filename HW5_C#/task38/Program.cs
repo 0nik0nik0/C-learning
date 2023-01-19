@@ -56,3 +56,5 @@ Console.WriteLine($"Difference between maximal and minimal numbers in your array
 Console.Write($"Your array:{String.Join("| ", array)} ");
 /* Console.Write("Your array: ");
 ShowArray(array); */
+
+//string.Format("{0:f4}", number   -  ограничение знаков после запятой

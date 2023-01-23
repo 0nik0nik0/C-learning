@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\lection4.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\lection4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\lection4.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\lection4.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\lection4.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\bin\Debug\net6.0\lection4.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\bin\Debug\net6.0\lection4.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\bin\Debug\net6.0\lection4.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\bin\Debug\net6.0\lection4.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\bin\Debug\net6.0\lection4.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\lection4.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\refint\lection4.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\lection4.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\lection4.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\lection4\obj\Debug\net6.0\ref\lection4.dll

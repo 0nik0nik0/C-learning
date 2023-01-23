@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\bin\Debug\net6.0\task52.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\bin\Debug\net6.0\task52.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\bin\Debug\net6.0\task52.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\bin\Debug\net6.0\task52.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\bin\Debug\net6.0\task52.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\task52.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\task52.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\task52.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\task52.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\task52.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\refint\task52.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\task52.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\task52.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW7_C#\task52\obj\Debug\net6.0\ref\task52.dll

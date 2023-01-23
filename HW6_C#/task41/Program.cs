@@ -6,23 +6,25 @@
 1, -7, 567, 89, 223-> 3
  */
 
-
-Console.Clear();
-Console.WriteLine("To stop the program, press 'q'.\nType as much integers as you wish (each time press 'Enter' after typing): ");
-bool GoCode = true;
-int result = 0;
-while (GoCode)
+void SortNumbers()
 {
-    string m = Console.ReadLine();
-    if (int.TryParse(m, out int n) && Convert.ToInt32(m) > 0)
+    Console.Clear();
+    Console.WriteLine("To stop the program, press 'q'.\nType as much integers as you wish (each time press 'Enter' after typing): ");
+    bool GoCode = true;
+    int result = 0;
+    while (GoCode)
     {
-        result++;
-    }
-    else if (m == "q")
-    {
-        Console.Write($"You pressed 'q' => program stopped. \nNow we are going to calculate how many of your numbers are above 0 \nEntered {result} values above zero.\n");
-        GoCode = false;
+        string m = Console.ReadLine();
+        if (int.TryParse(m, out int n) && Convert.ToInt32(m) > 0)
+        {
+            result++;
+        }
+        else if (m == "q")
+        {
+            Console.Write($"You pressed 'q' => program stopped. \nNow we are going to calculate how many of your numbers are above 0 \nEntered {result} values above zero.\n");
+            GoCode = false;
+        }
     }
 }
-
+SortNumbers();
 

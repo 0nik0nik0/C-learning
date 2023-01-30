@@ -1,6 +1,6 @@
 ﻿/* Задача 62: Заполните спирально массив 4 на 4. */
 
-int rows = 4, columns = 4;
+int rows = 5, columns = 5;
 int[,] myArr = new int[rows, columns];
 FillArray(myArr, 1, 0, 0);
 

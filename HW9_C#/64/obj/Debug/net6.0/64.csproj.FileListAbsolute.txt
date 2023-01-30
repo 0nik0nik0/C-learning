@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\bin\Debug\net6.0\64.exe
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\bin\Debug\net6.0\64.deps.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\bin\Debug\net6.0\64.runtimeconfig.json
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\bin\Debug\net6.0\64.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\bin\Debug\net6.0\64.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\64.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\64.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\64.AssemblyInfo.cs
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\64.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\64.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\refint\64.dll
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\64.pdb
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\64.genruntimeconfig.cache
+C:\Users\marin\Desktop\МНВ\GB\C#\C#learning\HW9_C#\64\obj\Debug\net6.0\ref\64.dll
